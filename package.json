@@ -1,0 +1,22 @@
+{
+  "name": "gzcstec-doc",
+  "version": "0.0.1",
+  "description": "丛师开发文档\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15626131368/gzcstec-doc.git"
+  },
+  "keywords": [
+    "丛师开发文档"
+  ],
+  "author": "15626131368@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15626131368/gzcstec-doc/issues"
+  },
+  "homepage": "https://github.com/15626131368/gzcstec-doc#readme"
+}
